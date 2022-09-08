@@ -10,9 +10,9 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
 
-## Prpject Details
+## Project Details
 
-On this project, the tasks you will work on are:
+On this project, the tasks worked on are:
 
  - Gathering Data
  - Assessing Data
