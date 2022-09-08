@@ -1,6 +1,6 @@
 # Twitter-Data-Wrangling-Project
 
-**This is my second project as an Udacity Scholar in my Udacity Data Analyst Nanodegree Program.**
+**This is my second project in my Udacity Data Analyst Nanodegree Program.**
 
 ## Introduction
 
@@ -68,6 +68,3 @@ Analyze and visualize your wrangled data in your wrangle_act.ipynb Jupyter Noteb
 
 Create a 300-600 word written report called wrangle_report.pdf that briefly describes your wrangling efforts. This is to be framed as an internal document. Create a >250 word written report called act_report.pdf that communicates the insights and displays the visualization(s) produced from your wrangled data. This is to be framed as an external document, like a blog post or magazine article, for example.
 
-## Medium Blog on this Project
-
-You can also read my [blog](https://medium.com/@chisompromise/twitter-data-analysis-weratedogs-1fb8b65da7fa) post on this project and feel free to connect with me on [Linkedin](https://www.linkedin.com/in/chisom-promise/).
