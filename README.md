@@ -1,4 +1,5 @@
 # Twitter-Data-Wrangling-Project
+### By Jerome Gameli Kofi Davor
 
 **This is my second project in my Udacity Data Analyst Nanodegree Program.**
 
